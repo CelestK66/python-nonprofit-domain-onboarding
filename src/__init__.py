@@ -1,0 +1,1 @@
+"""Nonprofit sending-domain example."""
